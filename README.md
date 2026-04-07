@@ -1,5 +1,13 @@
 # 💫 About Me:
-👋 Hi, I'm Saroj Swain, a passionate programmer with a keen interest in web, mobile, and AI Agent development.<br><br>👀 I have 8 Years of experience Core Java and JavaScript to strengthen my foundation in programming.<br><br>🌱 Additionally, I've experience in React and React Native to deeper into frontend and mobile app development. with Micro service  backend using Java and spring boot<br><br>💞️ I'm enthusiastic about collaborating on projects involving React and React Native, where I can contribute my skills and learn from others in the community.<br><br>📫 You can reach out to me via:<br><br>Mobile: +91 7978052788<br>Email: Sarojswain680@gmail.com
+## 👋 Hi, I'm Saroj Swain
+
+I'm a passionate programmer with a keen interest in web, mobile, and AI Agent development.
+
+- 👀 **Experience:** 8 years in Java and JavaScript full-stack development.
+- 🌱 **Skills:** Proficient in React and React Native for frontend and mobile app development, with strong backend expertise in Java and Spring Boot microservices. I also have hands-on experience in AI agent development.
+- 💞️ **Collaboration:** I'm enthusiastic about collaborating on projects involving React, React Native, or Agentic AI development, where I can contribute my skills and learn from others in the community.
+
+Let's connect and build something amazing together!<br><br>📫 You can reach out to me via:<br><br>Mobile: +91 7978052788<br>Email: Sarojswain680@gmail.com
 
 
 # 💻 Tech Stack:
