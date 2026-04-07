@@ -12,6 +12,9 @@
 
 Let's connect and build amazing things together! 😊
 
+💻 Tech Stack:
+CSS3 JavaScript Java HTML5 GraphQL Markdown TypeScript AWS Azure Firebase Google Cloud Heroku Render Vercel Angular Apollo-GraphQL Bootstrap Context-API Chart.js Chakra Elasticsearch Ember Express.js Gatsby Flutter jQuery NodeJS Next JS NestJS NPM PNPM RabbitMQ Rails React React Native React Query React Router React Hook Form Redux Spring Socket.io Semantic UI React SASS RxJS Stylus TailwindCSS Web3.js Webpack Vite Yarn Apache Apache Maven Apache Tomcat Jenkins Nginx AmazonDynamoDB ApacheCassandra Firebase Postgres MongoDB MicrosoftSQLServer Redis SQLite Adobe Figma CircleCI CloudBees Fastlane GitLab CI GitHub Actions TravisCI GitLab GitHub Git Bitbucket Cypress Jasmine Jest Mocha Playwright Selenium Sentry Testing-Library Docker ESLint ElasticSearch Gradle Grafana Confluence Kubernetes Jira Postman Prometheus SonarQube Splunk SonarLint
+
 
 <!---
 sarojswain680/sarojswain680 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
